@@ -15,7 +15,10 @@ The Stock Price Analyzer is a comprehensive tool designed to predict future stoc
 3) 52-Week High Visualization: Plots the 52-week high for the selected stock to visualize trends.
 4) Stock Price Prediction: Uses the SVR algorithm to predict future stock prices based on historical data and plot them for comparison.
 5) Comparison Between Stocks: Allows users to compare the stock performance of two different companies side by side.
-6) Interactive Dashboard: Built with Streamlit to provide an interactive and easy-to-use interface for stock analysis and prediction
+6) Interactive Dashboard: Built with Streamlit to provide an interactive and easy-to-use interface for stock analysis and predict
+
+# Link for the APP
+   https://aditya-stock-price-prediction.streamlit.app/
 
 ![Screenshot 2024-11-13 175252](https://github.com/user-attachments/assets/eb1c525d-1b29-469a-9454-ca6862e98fe4)
 
