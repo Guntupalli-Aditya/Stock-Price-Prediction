@@ -19,6 +19,7 @@ The Stock Price Analyzer is a comprehensive tool designed to predict future stoc
 
 # Link for the APP
    https://aditya-stock-price-prediction.streamlit.app/
+# Preview
 
 ![Screenshot 2024-11-13 175252](https://github.com/user-attachments/assets/eb1c525d-1b29-469a-9454-ca6862e98fe4)
 
