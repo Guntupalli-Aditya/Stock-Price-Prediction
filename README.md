@@ -2,20 +2,20 @@
 The Stock Price Analyzer is a comprehensive tool designed to predict future stock prices using the SVR (Support Vector Regression) algorithm. It uses Yahoo Finance API to retrieve real-time stock data and allows users to download stock data, visualize the 52-week high, plot predicted prices, and compare stock performance between two companies.
 
 # Technologies Used
-1) Python: Main programming language for building the application.
-2) SVR (Support Vector Regression): For predicting future stock prices based on historical data.
-3) Streamlit: For deploying the web-based interactive application.
-4) yfinance API: For fetching real-time and historical stock data from Yahoo Finance.
-5) Matplotlib/Plotly: For visualizing the stock data, including plotting graphs for 52-week high and predicted stock prices.
-6) Pandas: For data manipulation and preprocessing.
+- Python: Main programming language for building the application.
+- SVR (Support Vector Regression): For predicting future stock prices based on historical data.
+- Streamlit: For deploying the web-based interactive application.
+- finance API: For fetching real-time and historical stock data from Yahoo Finance.
+- Matplotlib/Plotly: For visualizing the stock data, including plotting graphs for 52-week high and predicted stock prices.
+- Pandas: For data manipulation and preprocessing.
    
 # Features
-1) Stock Data Fetching: Uses the yfinance API to retrieve historical and real-time stock data for analysis.
-2) Download Stock Data: Allows users to download the stock data in CSV format for offline analysis.
-3) 52-Week High Visualization: Plots the 52-week high for the selected stock to visualize trends.
-4) Stock Price Prediction: Uses the SVR algorithm to predict future stock prices based on historical data and plot them for comparison.
-5) Comparison Between Stocks: Allows users to compare the stock performance of two different companies side by side.
-6) Interactive Dashboard: Built with Streamlit to provide an interactive and easy-to-use interface for stock analysis and predict
+- Stock Data Fetching: Uses the yfinance API to retrieve historical and real-time stock data for analysis.
+- Download Stock Data: Allows users to download the stock data in CSV format for offline analysis.
+- 52-Week High Visualization: Plots the 52-week high for the selected stock to visualize trends.
+- Stock Price Prediction: Uses the SVR algorithm to predict future stock prices based on historical data and plot them for comparison.
+- Comparison Between Stocks: Allows users to compare the stock performance of two different companies side by side.
+- Interactive Dashboard: Built with Streamlit to provide an interactive and easy-to-use interface for stock analysis and predict
 
 # Link for the APP
    https://aditya-stock-price-prediction.streamlit.app/
