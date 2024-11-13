@@ -16,9 +16,12 @@ The Stock Price Analyzer is a comprehensive tool designed to predict future stoc
 4) Stock Price Prediction: Uses the SVR algorithm to predict future stock prices based on historical data and plot them for comparison.
 5) Comparison Between Stocks: Allows users to compare the stock performance of two different companies side by side.
 6) Interactive Dashboard: Built with Streamlit to provide an interactive and easy-to-use interface for stock analysis and prediction
-   
-![Screenshot 2024-11-13 175313](https://github.com/user-attachments/assets/b9306f03-266a-48ff-98b6-2d97ae235991)
+
+![Screenshot 2024-11-13 175252](https://github.com/user-attachments/assets/eb1c525d-1b29-469a-9454-ca6862e98fe4)
 
 ![Screenshot 2024-11-13 175304](https://github.com/user-attachments/assets/7329c866-ec66-4003-84f4-efca92793600)
 
-![Screenshot 2024-11-13 175252](https://github.com/user-attachments/assets/eb1c525d-1b29-469a-9454-ca6862e98fe4)
+![Screenshot 2024-11-13 175313](https://github.com/user-attachments/assets/b9306f03-266a-48ff-98b6-2d97ae235991)
+
+
+
